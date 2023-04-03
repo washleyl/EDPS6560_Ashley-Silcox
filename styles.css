@@ -11,9 +11,13 @@ h2 {
 }
 
 p {
-  font-family: Playfair Display;
+  font-family: 'Playfair Display';
   color: black;	
   background-color: #EDDBC7;
+}
+
+answer {
+	float: left;
 }
 
 <!--to do--!>>
