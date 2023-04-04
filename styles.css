@@ -2,12 +2,12 @@
   box-sizing: border-box;
 }
 
-body{
+body {
 	background-color: maroon;
 }
 
 h1 {
-	font-family: Script;
+	font-family: 'Script';
 	text-align: center;
 }
 
