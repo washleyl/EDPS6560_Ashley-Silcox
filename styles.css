@@ -13,12 +13,15 @@ h2 {
 
 p {
   font-family: 'Playfair Display';
-  color: black;	
   text-align: left;
 }
 
 .answer {
 	float: left;
+}
+
+.jumanji {
+	padding: 20px;
 }
 
 <!--to do--!>>
