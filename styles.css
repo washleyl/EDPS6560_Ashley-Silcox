@@ -15,6 +15,10 @@ h2 {
 	font-family: 'Dancing Srcipt', cursive;
 }
 
+img {
+  border-radius: 8px;
+}
+
 p {
   font-family: 'Playfair Display';
   text-align: left;
