@@ -11,12 +11,12 @@ body {
 h1 {
 	font-family: 'Script';
 	text-align: center;
-	text-color: black;
+	color: black;
 }
 
 h2 {
   font-family: 'Dancing Srcipt';
-  text-color: black;
+  color: black;
 }
 
 img {
@@ -27,7 +27,7 @@ img {
 
 p {
   font-family: 'Playfair Display';
-  text-color: black;
+  color: black;
   text-align: left;
   margin-right: 50px;  
   margin-left: 20px;
