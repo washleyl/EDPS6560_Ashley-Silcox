@@ -28,6 +28,12 @@ p {
 	float: left;
 }
 
+.grid-container {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
 .flex-container {
   display: flex;
   flex-direction: row center; 
