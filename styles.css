@@ -28,6 +28,18 @@ p {
 	float: left;
 }
 
+.button {
+  background-color: #e7e7e7; 
+  border: none;
+  color: black;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+  font-size: 14px;
+}
+
 #borderimg {
   border: 10px solid transparent;
   padding: 15px;
