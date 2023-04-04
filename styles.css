@@ -67,3 +67,6 @@ p {
   align-items: center;
 }
 	
+answer {
+	float: left;
+}
