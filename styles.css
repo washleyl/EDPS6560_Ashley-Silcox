@@ -29,10 +29,6 @@ p {
 	float: left;
 }
 
-.jumanji {
-	padding: 20px;
-}
-
 .flex-container {
   display: flex;
   flex-direction: row center; 
