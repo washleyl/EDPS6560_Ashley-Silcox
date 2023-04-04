@@ -28,6 +28,12 @@ p {
 	float: left;
 }
 
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(Imagination with books.png) 30 stretch;
+}
+
 .grid-container {
   display: grid;
   justify-content: center;
