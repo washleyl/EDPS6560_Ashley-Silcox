@@ -10,10 +10,12 @@ body {
 h1 {
 	font-family: 'Script';
 	text-align: center;
+	text-color: black;
 }
 
 h2 {
 	font-family: 'Dancing Srcipt', cursive;
+	text-color: black;
 }
 
 img {
@@ -28,10 +30,6 @@ p {
   text-align: left;
   margin-right: 50px;  
   margin-left: 20px;
-}
-
-.answer {
-	float: left;
 }
 
 .button {
