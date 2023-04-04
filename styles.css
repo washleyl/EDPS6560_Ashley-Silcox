@@ -3,7 +3,7 @@
 }
 
 body {
-	color: 'light pink';
+	color: cream;
 }
 
 h1 {
@@ -46,11 +46,6 @@ p {
   border-image: url(Imagination with books.png) 30 stretch;
 }
 
-.grid-container {
-  display: grid;
-  justify-content: center;
-  align-content: center;
-}
 
 .flex-container {
   display: flex;
