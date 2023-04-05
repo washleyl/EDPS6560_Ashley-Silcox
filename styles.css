@@ -19,6 +19,12 @@ h2 {
   color: black;
 }
 
+h2 {
+  font-family: 'Dancing Srcipt';
+  color: black;
+  justify-content: center;
+}
+
 h4 {
   font-family: 'Dancing Srcipt';
   color: black;
