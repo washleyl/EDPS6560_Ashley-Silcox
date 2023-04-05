@@ -15,13 +15,13 @@ h1 {
 }
 
 h2 {
-  font-family: 'Lily Srcipt';
+  font-family: 'Lily Script';
   color: black;
   margin-right: 40px;
 }
 
 h3 {
-  font-family: 'Dancing Srcipt';
+  font-family: 'Dancing Script';
   color: black;
   justify-content: center;
 }
@@ -35,7 +35,7 @@ h4 {
 }
 
 h5 {
-  font-family: 'Dancing Srcipt';
+  font-family: 'Dancing Script';
   color: black;
   word-wrap: normal;
   margin-right: 20px;
