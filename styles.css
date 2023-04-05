@@ -22,11 +22,13 @@ h2 {
 h4 {
   font-family: 'Dancing Srcipt';
   color: black;
+  word-wrap: normal;
 }
 
 h5 {
   font-family: 'Dancing Srcipt';
   color: black;
+  word-wrap: normal;
 }
 
 img {
