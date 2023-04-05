@@ -3,15 +3,15 @@
 }
 
 body {
-	background-color:#F5EBEB;
-	opacity: 1;
-	margin-top: 40px;
+  background-color:#F5EBEB;
+  opacity: 1;
+  margin-top: 40px;
 }
 
 h1 {
-	font-family: 'Script';
-	text-align: center;
-	color: black;
+  font-family: 'Script';
+  text-align: center;
+  color: black;
 }
 
 h2 {
@@ -23,12 +23,16 @@ h4 {
   font-family: 'Dancing Srcipt';
   color: black;
   word-wrap: normal;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 h5 {
   font-family: 'Dancing Srcipt';
   color: black;
   word-wrap: normal;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 img {
@@ -45,7 +49,7 @@ p {
   margin-left: 20px;
 }
 
-.button {
+button {
   background-color: #e7e7e7; 
   border: none;
   padding: 10px 24px;
@@ -70,5 +74,5 @@ p {
 }
 	
 answer {
-	float: left;
+  float: left;
 }
